@@ -23,3 +23,8 @@ Python
 Tkinter
 Matplotlib
 
+# Instalação das Dependências
+ 
+Instale as bibliotecas necessárias executando:
+ 
+pip install -r requirements.txt
