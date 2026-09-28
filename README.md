@@ -1,3 +1,6 @@
+# INTEGRANTE
+Raí Gil Pedrosa
+
 # Escalonamento_Sistemas_Operacionais
 
 Projeto desenvolvido para a disciplina de Sistemas Operacionais, com o objetivo de demonstrar o funcionamento de diferentes algoritmos de escalonamento de CPU.
